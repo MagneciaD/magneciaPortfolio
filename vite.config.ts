@@ -5,7 +5,11 @@ import { componentTagger } from "lovable-tagger";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
+<<<<<<< HEAD
     base: 'dladla-verse-architect-main/', 
+=======
+    base: '/dladla-verse-architect-main/', 
+>>>>>>> b430a981ea237bf029f93caf77a4d3e7acfecabc
   server: {
     host: "::",
     port: 8080,
