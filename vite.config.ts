@@ -8,7 +8,7 @@ export default defineConfig(({ mode }) => ({
 <<<<<<< HEAD
     base: 'dladla-verse-architect-main/', 
 =======
-    base: '/dladla-verse-architect-main/', 
+base: '/magneciaPortfolio/',
 >>>>>>> b430a981ea237bf029f93caf77a4d3e7acfecabc
   server: {
     host: "::",
