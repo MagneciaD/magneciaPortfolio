@@ -15,12 +15,13 @@ const projects = [
     ]
   },
   {
-    title: "Phone Tracker App",
+    title: "FOOD APP MENU",
     description: "A sophisticated location tracking application that helps families stay connected and ensures safety through real-time location sharing.",
     icon: Smartphone,
     tech: ["React Native", "Firebase", "Google Maps API"],
     color: "neon-purple",
     status: "In Development",
+    link: " https://magneciad.github.io/foodMenu/",
     screenshots: [
       "/screenshots/tracker-1.png",
       "/screenshots/tracker-2.png"
