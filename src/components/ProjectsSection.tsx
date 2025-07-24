@@ -2,18 +2,19 @@ import { useState } from 'react';
 import { ExternalLink, Github, Smartphone, GraduationCap, FileText, Calculator, X, ChevronLeft, ChevronRight } from 'lucide-react';
 
 const projects = [
-  {
-    title: "EduHelp MP",
-    description: "An educational platform that empowers students with interactive learning tools and resources, making education accessible and engaging.",
-    icon: GraduationCap,
-    tech: ["React", "Node.js", "MongoDB"],
-    color: "neon-cyan",
-    status: "Live",
-    screenshots: [
-      "/screenshots/eduhelp-1.png",
-      "/screenshots/eduhelp-2.png"
-    ]
-  },
+ {
+  title: "FOOD APP MENU",
+  description: "A clean and responsive food menu website built using HTML, CSS, and JavaScript. It showcases a modern user interface for browsing meals, perfect for restaurants or personal projects showcasing UI/UX skills.",
+  icon: Smartphone,
+  tech: ["HTML", "CSS", "JavaScript"],
+  color: "neon-purple",
+  status: "Completed",
+  link: "https://magneciad.github.io/foodMenu/",
+  screenshots: [
+    "/screenshots/food-menu-1.png",
+    "/screenshots/food-menu-2.png"
+  ]
+},
   {
     title: "FOOD APP MENU",
     description: "A sophisticated location tracking application that helps families stay connected and ensures safety through real-time location sharing.",
